@@ -1,0 +1,11 @@
+plotly
+gradio
+seaborn
+pandas
+matplotlib
+numpy
+scikit-learn
+streamlit
+pystan~=2.14
+fbprophet
+folium
